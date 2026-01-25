@@ -939,7 +939,7 @@ Maintenir les tâches **déjà triées** avec des algorithmes de tri efficaces o
 
 ---
 
-## ✅ Quiz de Validation
+## ❓ Quiz de Validation des Connaissances
 
 ### Question 1 : Complexité de `addTask`
 

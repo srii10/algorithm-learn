@@ -1884,11 +1884,7 @@ console.timeEnd("Optimisé O(n)"); // → ~1-2ms
 
 ---
 
-## ✅ Quiz de Validation des Connaissances
-
-Testez votre compréhension de la notation Big O avec ce quiz !
-
----
+## ❓ Quiz de Validation des Connaissances
 
 ### Question 1
 

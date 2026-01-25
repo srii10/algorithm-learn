@@ -1046,7 +1046,7 @@ arr.map((item) => item * 2);
 
 ---
 
-## ✅ Quiz de Validation des Connaissances
+## ❓ Quiz de Validation des Connaissances
 
 ### Question 1 : Temps Constant
 

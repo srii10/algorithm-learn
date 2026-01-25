@@ -1037,11 +1037,7 @@ function filtrerPairs(nombres) {
 
 ---
 
-## ✅ Quiz de Validation des Connaissances
-
-Testez votre compréhension de cette leçon avec ce quiz !
-
----
+## ❓ Quiz de Validation des Connaissances
 
 ### Question 1
 
